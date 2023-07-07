@@ -1,0 +1,12 @@
+/Users/joelaliyu/Projects/calculatorTest/CalculatorTest/bin/Debug/net7.0/CalculatorLibrary.deps.json
+/Users/joelaliyu/Projects/calculatorTest/calculatorTest/bin/Debug/net7.0/CalculatorLibrary.dll
+/Users/joelaliyu/Projects/calculatorTest/calculatorTest/bin/Debug/net7.0/CalculatorLibrary.pdb
+/Users/joelaliyu/Projects/calculatorTest/calculatorTest/obj/Debug/net7.0/CalculatorLibrary.csproj.AssemblyReference.cache
+/Users/joelaliyu/Projects/calculatorTest/calculatorTest/obj/Debug/net7.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelaliyu/Projects/calculatorTest/calculatorTest/obj/Debug/net7.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/Users/joelaliyu/Projects/calculatorTest/calculatorTest/obj/Debug/net7.0/CalculatorLibrary.AssemblyInfo.cs
+/Users/joelaliyu/Projects/calculatorTest/calculatorTest/obj/Debug/net7.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/joelaliyu/Projects/calculatorTest/calculatorTest/obj/Debug/net7.0/CalculatorLibrary.dll
+/Users/joelaliyu/Projects/calculatorTest/calculatorTest/obj/Debug/net7.0/refint/CalculatorLibrary.dll
+/Users/joelaliyu/Projects/calculatorTest/calculatorTest/obj/Debug/net7.0/CalculatorLibrary.pdb
+/Users/joelaliyu/Projects/calculatorTest/CalculatorTest/obj/Debug/net7.0/ref/CalculatorLibrary.dll

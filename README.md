@@ -1,4 +1,4 @@
-- React web App: run 'npm install' to install the node modules
+- calculatorTestWebApp(React web App): run 'npm install' to install the node modules
 
 - To run the React web Application on the browser, use the command 'npm run dev'
 

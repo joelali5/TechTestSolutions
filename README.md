@@ -1,10 +1,13 @@
-React web App: run 'npm install' to install the node modules
-To run the React web Application on the browser, use the command 'npm run dev'
-The Web Service project is named 'CalculatorService'
-The Class Library for the calculator is named 'SimpleCalculator.cs'
-The test project for testing the calculator's functionality with NUnit framework is named 'CalculatorLibraryTest' and it contains the test file 'CalculatorLibraryTests.cs'
+- React web App: run 'npm install' to install the node modules
 
-Both 'CalculatorService' and 'CalculatorLibraryTest' are in the 'calculatorTestSolution' folder for easy referencing.
+- To run the React web Application on the browser, use the command 'npm run dev'
+
+- The Web Service project is named 'CalculatorService'
+- The Class Library for the calculator is named 'SimpleCalculator.cs'
+- The test project for testing the calculator's functionality with NUnit framework is named 'CalculatorLibraryTest' and it contains the 
+  test file 'CalculatorLibraryTests.cs'
+
+- Both 'CalculatorService' and 'CalculatorLibraryTest' are in the 'calculatorTestSolution' folder for easy referencing.
 
 ## Below are screenshots from testing of the React Web Application, each showing a change in color for the look and feel of the modal.
 <img width="765" alt="Screenshot 2023-07-07 at 08 23 17" src="https://github.com/joelali5/TechTestSolutions/assets/42684254/8027dbe2-1b58-4f8b-a0c6-735cf058acaf">
